@@ -6,6 +6,3 @@ My name is Emina (you can call me Mina), and I'm a self taught dev focussing on 
 
 🚀 I’m currently developing my React skills and building projects with it
 
-🍫 You can find my portfolio here: <a href="minacodes.com">minacodes.com</a>
-
-😎 My <a href="https://twitter.com/ece_minaa">Twitter<a/>
