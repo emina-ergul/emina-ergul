@@ -8,4 +8,4 @@ My name is Emina (you can call me Mina), and I'm a self taught dev focussing on 
 
 🍫 You can find my portfolio here: [minacodes.com](https://minacodes.com/)
 
-😎 My [Twitter](https://twitter.com/ece_minaa)
+😎 My [Twitter](https://twitter.com/eminaergul)
