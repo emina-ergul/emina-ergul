@@ -1,1 +1,1 @@
-Currently learning Python and SQL 🚀
+Currently exploring new skills
